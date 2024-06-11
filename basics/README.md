@@ -1,0 +1,1 @@
+Where am I excercise for learning how to create basic shell scripts
