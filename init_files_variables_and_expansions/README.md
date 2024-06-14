@@ -1,0 +1,1 @@
+Readme file with the exercises for the init files variables and expansions section of the training
